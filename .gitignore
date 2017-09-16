@@ -1,0 +1,8 @@
+*.class
+target/
+src/test/
+.settings/
+*.xml
+!pom.xml
+AppConfig.java
+src/main/java/ywcai/flow/cfg/AppConfig.java
